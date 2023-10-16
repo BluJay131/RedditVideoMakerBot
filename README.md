@@ -2,6 +2,7 @@
 [![Official Website](https://img.shields.io/badge/Official%20Website-blujay131.com-blue?style=flat&logo=world&logoColor=white)](https://blujay131.com/)
 [![Socials](https://img.shields.io/badge/Socials-linktr.ee/blujay131-purple?style=flat&logo=world&logoColor=white)](https://linktr.ee/blujay_131)
 [![GitHub Repo stars](https://img.shields.io/github/stars/BluJay131/Cost-Effective-Twitch-Chat-Controlled-Lights?style=social)](https://github.com/BluJay131/RedditVideoMakerBot/stargazers)
+<a target="_blank" href="https://www.youtube.com/channel/UC4XvDmn7p5vo_XpwlIg54TA">Check Out the Channel here</a>
 
 <hr/>
 
