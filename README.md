@@ -1,12 +1,11 @@
 # Reddit Video Maker Bot 🎥
 [![Official Website](https://img.shields.io/badge/Official%20Website-blujay131.com-blue?style=flat&logo=world&logoColor=white)](https://blujay131.com/)
 [![Socials](https://img.shields.io/badge/Socials-linktr.ee/blujay131-purple?style=flat&logo=world&logoColor=white)](https://linktr.ee/blujay_131)
-[![GitHub Repo stars](https://img.shields.io/github/stars/BluJay131/Cost-Effective-Twitch-Chat-Controlled-Lights?style=social)](https://github.com/BluJay131/RedditVideoMakerBot/stargazers)
-<a target="_blank" href="https://www.youtube.com/channel/UC4XvDmn7p5vo_XpwlIg54TA">Check Out the Channel here</a>
+[![GitHub Repo stars](https://img.shields.io/github/stars/BluJay131/Cost-Effective-Twitch-Chat-Controlled-Lights?style=social)](https://github.com/BluJay131/RedditVideoMakerBot/stargazers
 
 <hr/>
 
-### ![image](https://github.com/BluJay131/Cost-Effective-Twitch-Controlled-Lights/assets/80910384/346dc2a9-45f3-4372-8e4c-de62a3bc5e3f) Visit the <a target="_blank" href="https://github.com/elebumm/RedditVideoMakerBot">creators of this project</a> for instructions on use and to support their work! 
+### ![image](https://github.com/BluJay131/Cost-Effective-Twitch-Controlled-Lights/assets/80910384/346dc2a9-45f3-4372-8e4c-de62a3bc5e3f) Visit the <a target="_blank" href="https://github.com/elebumm/RedditVideoMakerBot">creators of this project</a> for instructions on use and to support their work! And check out the channel using this code <a target="_blank" href="https://www.youtube.com/channel/UC4XvDmn7p5vo_XpwlIg54TA"here.</a>
 
 (Side note this works only on the Windows OS)
 
