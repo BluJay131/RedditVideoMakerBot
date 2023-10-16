@@ -5,7 +5,7 @@
 
 <hr/>
 
-### ![image](https://github.com/BluJay131/Cost-Effective-Twitch-Controlled-Lights/assets/80910384/346dc2a9-45f3-4372-8e4c-de62a3bc5e3f) Visit the <a target="_blank" href="https://github.com/elebumm/RedditVideoMakerBot">creators of this project</a> for instructions on use and to support their work! And check out the channel using this code <a target="_blank" href="https://www.youtube.com/channel/UC4XvDmn7p5vo_XpwlIg54TA">here.</a>
+### ![image](https://github.com/BluJay131/Cost-Effective-Twitch-Controlled-Lights/assets/80910384/346dc2a9-45f3-4372-8e4c-de62a3bc5e3f) Visit the <a target="_blank" href="https://github.com/elebumm/RedditVideoMakerBot">creators of this project</a> for instructions on use and to support their work! And <a target="_blank" href="https://www.youtube.com/channel/UC4XvDmn7p5vo_XpwlIg54TA">check out the channel using this code here.</a>
 (Side note this works only on the Windows OS)
 
 ## Description
